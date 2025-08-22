@@ -1,4 +1,4 @@
-# 🎓 AWS Certified Cloud Practitioner – Q&A
+# AWS Certified Cloud Practitioner – Q&A
 
 ## Beginner Level
 
@@ -13,7 +13,7 @@ AWS provides global infrastructure where customers can scale resources without i
 - 750 hours/month of **EC2 t2.micro/t3.micro**  
 - 5 GB of **S3 storage**  
 - 750 hours of **RDS usage**  
-👉 Purpose: Let new users learn AWS hands-on.
+-> Purpose: Let new users learn AWS hands-on.
 
 ---
 
@@ -30,7 +30,7 @@ AWS provides global infrastructure where customers can scale resources without i
 **A:**  
 - **AWS:** Responsible for **security OF the cloud** (hardware, network, data centers, managed services).  
 - **Customer:** Responsible for **security IN the cloud** (applications, data, OS patches, IAM permissions).  
-👉 Example: AWS secures S3 infrastructure, but you must configure bucket policies correctly.
+-> Example: AWS secures S3 infrastructure, but you must configure bucket policies correctly.
 
 ---
 
@@ -38,7 +38,7 @@ AWS provides global infrastructure where customers can scale resources without i
 **A:**  
 - **Region:** A geographical area (e.g., us-east-1 in Virginia).  
 - **AZ:** Independent data centers within a Region (typically ≥3).  
-👉 Deploying apps across multiple AZs improves **fault tolerance**.
+-> Deploying apps across multiple AZs improves **fault tolerance**.
 
 ---
 
@@ -59,7 +59,7 @@ Commonly used with S3 static websites, streaming media, and API acceleration.
   - **Cost Explorer** – visualize usage.  
   - **Budgets** – alerts on spend.  
   - **Trusted Advisor** – optimization recommendations.  
-👉 Example: Long-term stable workloads = Reserved Instances/Savings Plans.  
+-> Example: Long-term stable workloads = Reserved Instances/Savings Plans.  
 
 ---
 
@@ -79,4 +79,4 @@ Commonly used with S3 static websites, streaming media, and API acceleration.
 - Databases: DynamoDB, Aurora Serverless  
 - Integration: SQS, SNS, EventBridge  
 - Storage: S3  
-👉 Serverless = no server management, pay-per-use, automatic scaling.
+-> Serverless = no server management, pay-per-use, automatic scaling.
