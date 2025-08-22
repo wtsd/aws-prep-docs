@@ -1,6 +1,6 @@
-# AWS Services Table (Expanded)
+# AWS Services Table
 
-This table includes a broader set of AWS services grouped by category.
+This table includes a set of AWS services grouped by category.
 
 | Category | Service | Description | Link |
 |----------|---------|-------------|------|
