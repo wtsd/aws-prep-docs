@@ -9,6 +9,7 @@ and a complete table of AWS services relevant for AWS Certified Cloud Practition
 - [AWS Cloud Adoption Framework](aws-cloud-adoption-framework.md)
 - [AWS Practitioner Services Table](aws-practitioner-services.md)
 - [AWS CLI Cheat Sheet](aws-cli-cheatsheet.md)
+- [AWS Security](aws-security-notes.md)
 
 ---
 
