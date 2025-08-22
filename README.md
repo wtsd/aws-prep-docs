@@ -1,5 +1,4 @@
-# AWS Best Practices & Cloud Adoption Framework
-
+# AWS Cheat Sheet for DevOps
 This repository contains documentation for AWS best practices, the AWS Cloud Adoption Framework (CAF), 
 and a complete table of AWS services relevant for AWS Certified Cloud Practitioner.
 
