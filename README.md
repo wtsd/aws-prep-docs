@@ -5,11 +5,13 @@ and a complete table of AWS services relevant for AWS Certified Cloud Practition
 ---
 
 ## Contents
-- [AWS Best Practices](aws-best-practices.md)
-- [AWS Cloud Adoption Framework](aws-cloud-adoption-framework.md)
-- [AWS Practitioner Services Table](aws-practitioner-services.md)
-- [AWS CLI Cheat Sheet](aws-cli-cheatsheet.md)
-- [AWS Security](aws-security-notes.md)
+- [AWS Best Practices](docs/aws-best-practices.md)
+- [AWS Cloud Adoption Framework](docs/aws-cloud-adoption-framework.md)
+- [AWS Practitioner Services Table](docs/aws-practitioner-services.md)
+- [AWS CLI Cheat Sheet](docs/aws-cli-cheatsheet.md)
+- [AWS Security](docs/aws-security-notes.md)
+- [AWS Secrets Manager](docs/aws-secrets-manager.md)
+- [AWS EKS](docs/aws-eks.md)
 
 ---
 
