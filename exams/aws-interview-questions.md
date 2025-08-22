@@ -1,4 +1,4 @@
-# 💼 AWS Interview Prep – Q&A
+# AWS Interview Prep – Q&A
 
 ## Beginner Level
 
@@ -15,7 +15,7 @@ Example: Instead of buying servers, a startup can launch a website in minutes on
 - Encrypt objects (SSE-KMS).  
 - Enable CloudTrail to log access.  
 - Use Macie to scan for PII.  
-👉 This demonstrates knowledge of security best practices.
+-> This demonstrates knowledge of security best practices.
 
 ---
 
@@ -35,7 +35,7 @@ Example: Instead of buying servers, a startup can launch a website in minutes on
 **A:**  
 - **User:** Long-term identity (username + password/keys).  
 - **Role:** Temporary access assumed by users/apps. Roles don’t have long-term credentials.  
-👉 Roles are more secure (used in EC2, Lambda, EKS via IRSA).
+-> Roles are more secure (used in EC2, Lambda, EKS via IRSA).
 
 ---
 
@@ -45,7 +45,7 @@ Example: Instead of buying servers, a startup can launch a website in minutes on
 2. **Plan** – choose strategy (Rehost, Replatform, Refactor).  
 3. **Migrate** – use tools like DMS (databases), Snowball (bulk data).  
 4. **Optimize** – scale, add monitoring, security.  
-👉 Shows understanding of CAF (Cloud Adoption Framework).
+-> Shows understanding of CAF (Cloud Adoption Framework).
 
 ---
 
@@ -58,7 +58,7 @@ Example: Instead of buying servers, a startup can launch a website in minutes on
 3. Check CloudTrail logs for access history.  
 4. Rotate IAM credentials.  
 5. Patch vulnerability and redeploy.  
-👉 Demonstrates incident response workflow.
+-> Demonstrates incident response workflow.
 
 ---
 
@@ -70,7 +70,7 @@ Example: Instead of buying servers, a startup can launch a website in minutes on
 - **Networking:** VPC with public/private subnets.  
 - **Security:** WAF + Shield + IAM roles.  
 - **Observability:** CloudWatch, X-Ray, Config.  
-👉 This covers performance, reliability, and security pillars.
+-> This covers performance, reliability, and security pillars.
 
 ---
 
@@ -79,4 +79,4 @@ Example: Instead of buying servers, a startup can launch a website in minutes on
 - **VPN (IPSec)** – quick, over Internet.  
 - **Direct Connect** – dedicated private line, low latency.  
 - **Transit Gateway** – hub for multiple VPCs + on-prem.  
-👉 Common interview scenario question.
+-> Common interview scenario question.
