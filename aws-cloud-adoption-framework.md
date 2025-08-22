@@ -21,3 +21,5 @@ AWS CAF organizes guidance into **six key perspectives**:
 ---
 
 Reference: [AWS Cloud Adoption Framework](https://aws.amazon.com/professional-services/CAF/)
+PDF Book: [Accelerating Your Cloud-Powered
+Digital Business Transformation](https://d1.awsstatic.com/whitepapers/aws-caf-ebook.pdf)
