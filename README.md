@@ -20,7 +20,7 @@ Prepared for study, reference, and practical adoption in cloud projects.
 # AWS Practitioner & Interview Q&A
 - [Exam-oriented Q&A](exams/aws-practitioner-questions.md): Beginner to advanced exam-style questions.
 - [Interview-style scenario Q&A](exams/aws-interview-questions.md): Scenario-based and in-depth technical/behavioral questions.
-- [Advanced Interview-style scenario Q&A](exams/aws-advanced.md): Scenario-based and more in-depth technical/behavioral questions.
+- [Advanced Interview-style scenario Q&A](docs/aws-advanced.md): Scenario-based and more in-depth technical/behavioral questions.
 
 Use these for certification preparation and job interview practice or for preparing your questions for the new hires.
 
