@@ -18,17 +18,9 @@ Prepared for study, reference, and practical adoption in cloud projects.
 ---
 
 # AWS Practitioner & Interview Q&A
-
-1. **Exam Prep (AWS Certified Cloud Practitioner)** — Beginner to advanced exam-style questions.  
-2. **Interview Prep** — Scenario-based and in-depth technical/behavioral questions.
-3. **Advanced Interview Prep** — Scenario-based and more in-depth technical/behavioral questions.
-
----
-
-## Files
-- [aws-practitioner-questions.md](exams/aws-practitioner-questions.md): Exam-oriented Q&A.  
-- [aws-interview-questions.md](exams/aws-interview-questions.md): Interview-style scenario Q&A.
-- [aws-interview-questions.md](exams/aws-advanced.md): Advanced Interview-style scenario Q&A.
+- [Exam-oriented Q&A](exams/aws-practitioner-questions.md): Beginner to advanced exam-style questions.
+- [Interview-style scenario Q&A](exams/aws-interview-questions.md): Scenario-based and in-depth technical/behavioral questions.
+- [Advanced Interview-style scenario Q&A](exams/aws-advanced.md): Scenario-based and more in-depth technical/behavioral questions.
 
 Use these for certification preparation and job interview practice or for preparing your questions for the new hires.
 
